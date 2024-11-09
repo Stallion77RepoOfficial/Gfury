@@ -1,6 +1,6 @@
 ## Gfury
 
-Gfury, C dilinde yazılmış bir programdır. Amacı TTL değiştirdikten sonra girilemeyen uygulamalar veya oyunlarda TTL'i manipüle etmektir. Ayrıca oyunlarda gönderilen TÇP ve UDP paketlerini öncelikli olarak işaretler ve bu sayede pingin de düşmesini sağlar.
+Gfury, C dilinde yazılmış bir programdır. Amacı Mac cihazlarda TTL değiştirdikten sonra girilemeyen uygulamalar veya oyunlarda TTL'i manipüle etmektir. Ayrıca oyunlarda gönderilen TCP ve UDP paketlerini öncelikli olarak işaretler ve bu sayede pingin de düşmesini sağlar.
 
 ## Gereksinimler
 - Gcc veya clang c derleyecilerinden birisi
