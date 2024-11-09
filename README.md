@@ -11,4 +11,4 @@ Gfury, C dilinde yazılmış bir programdır. Amacı Mac cihazlarda TTL değişt
 2. `brew install libpcap` komutu ile gereksinimleri kurun.
 2. `gcc gfury.c -o gfury -lpthread -lpcap` komutunu kullanarak derleyin.
 3. `chmod +x gfury` komutu ile gerekli izinleir verin.
-4. Dosyayı çalıştırın.
+4. `sudo ./gfury` komutunu yazdıktan sonra hedef uygulamayı terminale sürükleyin ve çalıştırın.
