@@ -9,6 +9,6 @@ Gfury, C dilinde yazılmış bir programdır. Amacı TTL değiştirdikten sonra 
 
 1. Bu repoyu klonlayın veya indirin.
 2. `brew install libpcap` komutu ile gereksinimleri kurun.
-2. `gcc gfury.c -o  gfury -lpthread -lpcap` komutunu kullanarak derleyin.
+2. `gcc gfury.c -o gfury -lpthread -lpcap` komutunu kullanarak derleyin.
 3. `chmod +x gfury` komutu ile gerekli izinleir verin.
 4. Dosyayı çalıştırın.
